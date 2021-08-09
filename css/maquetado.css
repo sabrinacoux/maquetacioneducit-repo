@@ -1,0 +1,24 @@
+body{background-color: aquamarine;
+    height: 160px;
+
+}
+header{
+    background-color: #DA6736;
+    height: 160px;
+
+}
+nav{
+    background-color: #3C3B3B ;
+    height: 60px;
+
+}
+main{
+    background-color: #FFFDFD ;
+    height: 560px;
+
+}
+footer{
+    background-color: #3C3B3B;
+    height: 160px;
+
+}

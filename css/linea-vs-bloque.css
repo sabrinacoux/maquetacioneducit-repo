@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+body{
+    background-color: rgb(187, 173, 200);
+    font-family: 'Hind Siliguri', sans-serif;
+}
+a{
+    width:180px;
+    height: 60px;
+    background-color: coral;
+    display: inline-block;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: rgb(240, 115, 106);
+}
